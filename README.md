@@ -2,7 +2,7 @@
 
 Interactive 3D personal site. Built from scratch with React Three Fiber.
 
-**Live:** https://portfolio-of7pm5liy-tyrese-s-projects38.vercel.app
+**Live:** https://portfolio-tyrese-s-projects38.vercel.app
 
 ## Stack
 
