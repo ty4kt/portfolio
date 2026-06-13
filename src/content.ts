@@ -166,7 +166,7 @@ export const content = {
     line: "Open to interesting problems.",
     links: [
       { label: "GitHub", href: "https://github.com/ty4kt" },
-      { label: "LinkedIn", href: "https://www.linkedin.com/" }, // TODO: real profile URL from Tyrese
+      { label: "LinkedIn", href: "https://www.linkedin.com/in/tyrese-t-bb8b53197/" },
       { label: "Email", href: "mailto:mrtthomas2@icloud.com" },
     ],
     cvLabel: "Download CV",
